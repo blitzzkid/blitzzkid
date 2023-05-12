@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## LeetCode ([profile](https://leetcode.com/blitzkid/))
+[![Melvin's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=blitzkid)](https://github.com/KnlnKS/leetcode-stats)
